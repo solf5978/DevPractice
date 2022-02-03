@@ -16,5 +16,9 @@
 			"path": "RustPrac"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"02-formatTeX.C": "cpp"
+		}
+	}
 }
